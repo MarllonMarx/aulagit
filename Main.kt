@@ -5,5 +5,5 @@
 
 val readNames = listOf ("Marx", "Marllon", "Aurora")
 fun main () {
-    println("Hello, $name!")
+    println("Hello, $readNames!")
 }
